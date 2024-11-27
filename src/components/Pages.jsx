@@ -1,5 +1,5 @@
 import React from 'react'
-import ABS from './ABS/Abs'
+import ABS from './ABS/ABS'
 
 const Pages = () => {
   return (
